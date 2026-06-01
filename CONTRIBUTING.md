@@ -75,7 +75,33 @@ Atente-se para a seguir as orientações para a contribuição, principalmente:
 ](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
 Após criar o seu Pull Request, nossa automação irá validar a sua submissão. Caso esteja tudo certo, será retornada uma mensagem indicado que seu PR foi aprovado. Do contrário, leia atentamente as orientações e verifique os arquivos modificados para saber se atende as instruções para contribuição.
-    
+
+---
+
+## Sugestão de Melhoria: Timeline das Atualizações do Projeto
+
+Uma forma de tornar o acompanhamento do progresso mais acessível seria implementar uma **timeline das principais atualizações**.  
+Isso ajudaria novos colaboradores e a comunidade em geral a compreender rapidamente a evolução do projeto.
+
+### Possíveis Implementações
+- **Internamente no GitHub**: usando *Projects*, *Issues* e *Milestones* para organizar e visualizar etapas.  
+- **Ferramentas externas**: integração com Jira, Miro ou Trello, que oferecem visualização em formato de timeline.  
+
+### Benefícios
+- Facilita a compreensão para iniciantes.  
+- Dá mais transparência sobre o progresso.  
+- Incentiva a colaboração contínua da comunidade.  
+
+### Exemplo de Timeline
+Abaixo está um modelo fictício de como a timeline poderia ser organizada:
+
+- 📌 **Janeiro 2024**: Criação do repositório  
+- 🚀 **Março 2024**: Adição da pasta `community`  
+- 🔧 **Maio 2024**: Implementação dos utilitários em `utils`  
+- 🌐 **Julho 2024**: Melhoria na página de pesquisa dos READMEs  
+- 💡 **Setembro 2024**: Sugestão de timeline adicionada ao guia de contribuição  
+
+---
     
 ## Convenção de Commits 
 
